@@ -1,0 +1,1 @@
+<div id="footer"><p>Copyright &copy; <?php echo date ( 'Y' ) ; ?>  <strong>"Энгельсский политехникум"</strong> </p></div>
